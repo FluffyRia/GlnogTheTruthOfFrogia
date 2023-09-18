@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 834ceff7adb34694cb8e685ecabeb4bf, type: 3}
+  m_Name: IntroConfig
+  m_EditorClassIdentifier: 
+  <ComicSprites>k__BackingField:
+  - {fileID: 21300000, guid: 913ab5cb45d36174585372647c71f3d7, type: 3}
+  - {fileID: 21300000, guid: 4e24850726e0e014cb2235fb5b172dbf, type: 3}
+  - {fileID: 21300000, guid: 924d5f10935947449b268cd649e1ff63, type: 3}
+  - {fileID: 21300000, guid: 17d0a542f96d0734285d368ebb79d1a2, type: 3}
+  - {fileID: 21300000, guid: 676f301b39058ae4ab37395ca93ae62c, type: 3}
+  - {fileID: 21300000, guid: 53dbe183675873141a667086478492df, type: 3}
