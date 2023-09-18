@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GlnogStuff/_Scenes/MainGame.unity
+    path: Assets/_Main/_Scenes/MainGame.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/GlnogStuff/_Scenes/MainMenu.unity
+    path: Assets/_Main/_Scenes/MainMenu.unity
     guid: 4f3c1ef01c5b62c4398a8f4f4fa0557a
   - enabled: 1
-    path: Assets/GlnogStuff/_Scenes/IntroScene.unity
+    path: Assets/_Main/_Scenes/IntroScene.unity
     guid: 87e059ae62998764ba8539f23e18cbd8
   m_configObjects: {}
