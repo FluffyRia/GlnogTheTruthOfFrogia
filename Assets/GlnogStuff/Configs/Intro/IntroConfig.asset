@@ -19,3 +19,15 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 17d0a542f96d0734285d368ebb79d1a2, type: 3}
   - {fileID: 21300000, guid: 676f301b39058ae4ab37395ca93ae62c, type: 3}
   - {fileID: 21300000, guid: 53dbe183675873141a667086478492df, type: 3}
+  <ComicStrings>k__BackingField:
+  - Glnog started learning ancient magic with his grandpa since he was 2 years old.
+  - "This magic was called \u201CAncestral Flame\u201D, at least this is how the
+    grandpa called it."
+  - "Glnog spent a whole 4 years learning \u201CAncestral Flame\u201D, no wonder
+    - not every frog can learn this magic!"
+  - One day after these long 4 years Glnog was returning home after a long training,
+    as usual, called his grandpa...
+  - But to his surprise, there was no response. Glnog tried to find him, but he only
+    found a piece of paper on his grandpa's working table
+  - '"Dear Glnog. I will be waiting for you at the highest peak of the Dark Valley
+    and there we shall determine if your training has reached its culmination"'
