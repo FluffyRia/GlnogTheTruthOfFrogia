@@ -1,0 +1,45 @@
+{
+    "name": "IntroIA",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "9fc5a691-56f0-47b5-b9f5-c9ec9213b228",
+            "actions": [
+                {
+                    "name": "Next",
+                    "type": "Button",
+                    "id": "58a14a68-d6c8-42c7-870a-5f93f50f83a2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d138ba3e-3e09-4cb8-a267-8aa17b7de723",
+                    "path": "<Keyboard>/anyKey",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Next",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "31ef0e6d-2e71-4b8a-86e5-09330ab6e80a",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Next",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
